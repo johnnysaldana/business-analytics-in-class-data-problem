@@ -1,7 +1,7 @@
 # business-analytics-in-class-data-problem
 Working with Baltimore City open data
 
-#Problem Statement
+# Problem Statement
 
-#Data
+# Data
 Using data from [Baltimore City Open Data](https://data.baltimorecity.gov/)
