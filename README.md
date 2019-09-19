@@ -5,3 +5,5 @@ Working with Baltimore City open data
 
 # Data
 Using data from [Baltimore City Open Data](https://data.baltimorecity.gov/)
+ - Vacant Housing data downloaded on 2019-09-19
+ 
